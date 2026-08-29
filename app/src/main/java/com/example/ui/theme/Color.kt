@@ -1,0 +1,41 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Alert Colors (kept for alarm functionality)
+val AlertRed = Color(0xFFEF4444)
+val WarningOrange = Color(0xFFF59E0B)
+
+// "Sleek Interface" Light Color Palette
+val SleekPrimary = Color(0xFF0061A4)
+val SleekOnPrimary = Color(0xFFFFFFFF)
+val SleekPrimaryContainer = Color(0xFFD3E4FF)
+val SleekOnPrimaryContainer = Color(0xFF001D35)
+val SleekSecondary = Color(0xFF44474E)
+val SleekOnSecondary = Color(0xFFFFFFFF)
+val SleekSecondaryContainer = Color(0xFFE0E2EC)
+val SleekOnSecondaryContainer = Color(0xFF101C2D)
+val SleekBackground = Color(0xFFFDFBFF)
+val SleekOnBackground = Color(0xFF191C1E)
+val SleekSurface = Color(0xFFFFFFFF)
+val SleekOnSurface = Color(0xFF191C1E)
+val SleekSurfaceVariant = Color(0xFFE0E2EC)
+val SleekOnSurfaceVariant = Color(0xFF44474E)
+val SleekOutline = Color(0xFFC4C6CF)
+
+// "Sleek Interface" Dark Color Palette (Beautifully matched variant)
+val SleekPrimaryDark = Color(0xFFADC6FF)
+val SleekOnPrimaryDark = Color(0xFF00325A)
+val SleekPrimaryContainerDark = Color(0xFF00487B)
+val SleekOnPrimaryContainerDark = Color(0xFFD3E4FF)
+val SleekSecondaryDark = Color(0xFFC4C6CF)
+val SleekOnSecondaryDark = Color(0xFF2E3137)
+val SleekSecondaryContainerDark = Color(0xFF44474E)
+val SleekOnSecondaryContainerDark = Color(0xFFE0E2EC)
+val SleekBackgroundDark = Color(0xFF191C1E)
+val SleekOnBackgroundDark = Color(0xFFE1E2E5)
+val SleekSurfaceDark = Color(0xFF111418)
+val SleekOnSurfaceDark = Color(0xFFE1E2E5)
+val SleekSurfaceVariantDark = Color(0xFF44474E)
+val SleekOnSurfaceVariantDark = Color(0xFFC4C6CF)
+val SleekOutlineDark = Color(0xFF8E9099)

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battery Alarm</string>
+    <string name="battery_monitor_service_channel_name">Battery Monitor Service</string>
+    <string name="battery_monitor_service_channel_description">Monitors battery level in background to fire the full charge alarm.</string>
+    <string name="battery_alarm_channel_name">Battery Alarm Alert</string>
+    <string name="battery_alarm_channel_description">Plays looping alarm audio and shows full-screen alerts when battery reaches target.</string>
+    <string name="monitoring_active">Battery Monitor is Active</string>
+    <string name="monitoring_description">Charging to %1$d%%. App will alert you when target is reached.</string>
+    <string name="monitoring_not_charging">Battery Monitor Idle (Not Charging)</string>
+    <string name="monitoring_not_charging_desc">Plug in charger to start background battery monitoring.</string>
+</resources>

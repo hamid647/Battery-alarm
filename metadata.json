@@ -1,0 +1,6 @@
+{
+  "name": "Battery Alarm",
+  "description": "Alerts you with sound and vibration when your battery reaches a custom charge threshold to protect battery life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
